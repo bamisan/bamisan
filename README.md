@@ -16,7 +16,7 @@ I am a **Senior Software Engineer** with over **4 years** of experience in web a
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,vue" />
+    <img src="https://skillicons.dev/icons?i=js,vue,typescript" />
   </a>
 </p>
 <p>

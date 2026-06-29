@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Senior software engineer with a passion for building clean, scalable web apps. I work
 mainly across **Laravel, Go, and Node** on the backend and **Vue, React, and Next** on the
@@ -23,7 +23,7 @@ solutions powered by modern technologies.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages & Backend**
 <p>
